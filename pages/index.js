@@ -9,7 +9,7 @@ function Home() {
         padding: "20px"
       }}
     >
-      Olá, Tais! Se você acha que eu posso ser um bom programador faça um jóia 👍 !!!
+      Olá, Tais! Se você acha que eu posso ser um bom programador faça um jóia 👍 ! Te amo ❤️!
     </h1>
   );
 }
