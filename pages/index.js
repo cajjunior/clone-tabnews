@@ -9,8 +9,8 @@ function Home() {
         padding: "20px",
       }}
     >
-      Olá, Tais! Se você acha que eu posso ser um bom programador faça um jóia
-      👍 ! Te amo ❤️!
+      Em breve, notícias, atualidades e casos de marketing que vão impulsionar
+      suas carreiras e conhecimento!
     </h1>
   );
 }
