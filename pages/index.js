@@ -2,11 +2,12 @@ function Home() {
   return (
     <h1
       style={{
-        color: "darkblue",
-        fontSize: "30px",
+        color: "darwhite",
+        backgroundColor: "black",
+        fontSize: "50px",
         fontFamily: "Athenian",
-        textAlign: "neter",
-        padding: "20px",
+        textAlign: "center",
+        padding: "40px",
       }}
     >
       Em breve, notícias, atualidades e casos de marketing que vão impulsionar
